@@ -3,7 +3,7 @@ export const slidesData = [
     id: 1,
     title: {
       text: "Starship\nIn Outer Space?",
-      secondary: "WIN 1000 ZTG",
+      secondary: "WIN 1000 ZUL",
       styles:
         "text-white font-sans whitespace-pre font-extrabold text-6xl md:text-8xl mb-4",
       stylesSecondary:
@@ -28,7 +28,7 @@ export const slidesData = [
   {
     id: 2,
     title: {
-      text: `Zeitgeist\nis moving to Polkadot`,
+      text: `Zulu\nis moving to Polkadot`,
       styles:
         "md:max-w-[660px] text-white font-sans whitespace-pre font-semibold text-5xl md:text-7xl mb-6 ",
     },
@@ -53,7 +53,7 @@ export const slidesData = [
   // {
   //   id: 3,
   //   title: {
-  //     text: "ZTG is now traded on DEXs",
+  //     text: "ZUL is now traded on DEXs",
   //     styles: "text-white text-3xl sm:text-4xl md:text-6xl",
   //   },
   //   bg: "/carousel/slide-3.jpeg",
@@ -75,7 +75,7 @@ export const slidesData = [
   // {
   //   id: 4,
   //   title: {
-  //     text: `Presenting Zeitgeist’s
+  //     text: `Presenting Zulu’s
   //     "Rikiddo Scoring Rule`,
   //     styles: "text-white text-2xl sm:text-3xl md:text-5xl",
   //   },
